@@ -26,6 +26,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
+    "@tailwindcss/aspect-ratio": "^0.2.1",
     "aos": "^3.0.0-beta.6",
     "jquery": "^3.6.0"
   }
