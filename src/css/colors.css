@@ -1,3 +1,7 @@
 .red {
     @apply text-red-500;
 }
+
+.img-container{
+    @apply w-1/2 mx-auto;
+}
